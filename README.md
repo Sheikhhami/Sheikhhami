@@ -1,4 +1,4 @@
-<img width="740" height="555" alt="image" src="https://github.com/user-attachments/assets/1a066865-1594-4284-a431-5bd51c5213de" />
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Hammad Bin Munir) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sheikh HAMMAD) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hammad bin munir) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Hammad Bin Munir) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Sheikh Hami_mady) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Hammad Bin munir) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sheikhhammadbinmunir@gmail.com) 
 
